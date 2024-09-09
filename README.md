@@ -1,10 +1,7 @@
-Here’s an updated version of the README file for Task 2, including the use of pie charts:
-
----
-
 # Prodigy InfoTech Data Science Internship Task 2
 
-Perform data cleaning and exploratory data analysis on a dataset, such as analyzing the Titanic dataset to discover insights about the survival of passengers.
+Perform data cleaning and exploratory data analysis (EDA)on a dataset of your choice, such as the Titanic dataset from Kaggle. Explore the relationships between variables and
+identify patterns and trends in the data.
 
 ### Task Completed
 
@@ -12,7 +9,7 @@ This submission fulfills the requirements of Task 2, which was to perform data c
 
 ### Methodology:
 
-- **Data Acquisition:** The Titanic dataset was sourced from the seaborn library.
+- **Data Acquisition:** The Titanic dataset was sourced from the Kaggle.
 - **Data Cleaning:** Handled missing values in the age and embarked columns and removed unnecessary columns like cabin.
 - **Data Analysis:** Explored survival factors such as age, gender, class, and fare using Python’s visualization libraries.
 - **Key Insights:**
@@ -35,7 +32,7 @@ This submission fulfills the requirements of Task 2, which was to perform data c
 
 ### Dataset Source:
 
-- - The data used for this analysis can be found at : <a href="https://www.kaggle.com/c/titanic/data?select=test.csv">Kaggle</a>..
+- The data used for this analysis can be found at : <a href="https://www.kaggle.com/c/titanic/data?select=test.csv">Kaggle</a>..
 
 ### Contact
 
